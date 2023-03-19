@@ -1,8 +1,8 @@
 import React, { Component, Fragment } from 'react';
-import './App.css';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
+import './App.css';
 
 class App extends Component {
 
